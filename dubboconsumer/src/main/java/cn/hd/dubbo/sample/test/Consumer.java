@@ -15,6 +15,7 @@ public class Consumer {
 				new String[] { "sample-consumer.xml" });
 		context.start();
 		//
+		//
 		SampleService sampleService = (SampleService) context.getBean("sampleService");
 		String hello = sampleService.sayHello("tom");
 		System.out.println(hello);
