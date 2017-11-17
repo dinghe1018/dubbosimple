@@ -9,11 +9,12 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Consumer {
 	//ceshi
+	
 	public static void main(String[] args) throws Exception {
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
 				new String[] { "sample-consumer.xml" });
 		context.start();
-			
+		//
 		SampleService sampleService = (SampleService) context.getBean("sampleService");
 		String hello = sampleService.sayHello("tom");
 		System.out.println(hello);
