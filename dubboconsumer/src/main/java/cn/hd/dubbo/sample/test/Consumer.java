@@ -19,7 +19,7 @@ public class Consumer {
 		SampleService sampleService = (SampleService) context.getBean("sampleService");
 		String hello = sampleService.sayHello("tom");
 		System.out.println(hello);
-		
+		System.out.println("1234");
 		List list = sampleService.getUsers();
 
 		if (list != null && list.size() > 0) {
