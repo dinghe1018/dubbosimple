@@ -29,7 +29,7 @@ public class Consumer {
 			}
 		}
 		System.in.read();
-		System.out.println("dev002_test");
+		System.out.println("dev002_test merge to dev01");
 	}
 
 }
