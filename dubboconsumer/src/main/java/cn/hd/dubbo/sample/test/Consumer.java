@@ -29,7 +29,7 @@ public class Consumer {
 			}
 		}
 		System.in.read();
-		System.out.println("dev002");
+		System.out.println("dev002_test");
 	}
 
 }
