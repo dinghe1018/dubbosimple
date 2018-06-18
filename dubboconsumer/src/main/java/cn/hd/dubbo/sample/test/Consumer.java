@@ -1,5 +1,6 @@
 package cn.hd.dubbo.sample.test;
 
+import java.sql.SQLOutput;
 import java.util.List;
 
 import cn.hd.dubbo.sample.provider.SampleService;
@@ -28,6 +29,7 @@ public class Consumer {
 			}
 		}
 		System.in.read();
+		System.out.println("dev002");
 	}
 
 }
