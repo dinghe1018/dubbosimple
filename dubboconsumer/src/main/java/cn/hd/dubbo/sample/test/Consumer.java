@@ -30,6 +30,9 @@ public class Consumer {
 		}
 		System.in.read();
 		System.out.println("dev002_test merge to dev01");
+		System.out.println("create new dev001 ..1");
+		System.out.println("create new dev001 ..2");
+		System.out.println("create new dev001 ..3");
 	}
 
 }
