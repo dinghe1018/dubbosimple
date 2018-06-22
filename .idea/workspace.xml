@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d81e483-bd8e-4bb5-81a4-71aaa4b29057" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dubboconsumer/src/main/java/cn/hd/dubbo/sample/test/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubboconsumer/src/main/java/cn/hd/dubbo/sample/test/Consumer.java" afterDir="false" />
+    <list default="true" id="3d81e483-bd8e-4bb5-81a4-71aaa4b29057" name="Default" comment="6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dubboprovider/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,6 +81,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="349" />
+    <option name="y" value="40" />
+    <option name="width" value="964" />
+    <option name="height" value="698" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -99,6 +105,41 @@
             <path>
               <item name="dubbosimple" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubbosimple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbosimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbosimple" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbosimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbosimple" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbosimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbosimple" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbosimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbosimple" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbosimple" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbosimple" type="462c0819:PsiDirectoryNode" />
+              <item name="dubboconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +226,7 @@
       <workItem from="1510837594553" duration="83000" />
       <workItem from="1529315100868" duration="251000" />
       <workItem from="1529315378783" duration="22000" />
-      <workItem from="1529315423419" duration="280000" />
+      <workItem from="1529315423419" duration="509000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;1&quot;&#10;&#10;This reverts commit c8a5409">
       <created>1529315228370</created>
@@ -194,18 +235,46 @@
       <option name="project" value="LOCAL" />
       <updated>1529315228370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6">
+      <created>1529315721389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529315721389</updated>
+    </task>
+    <task id="LOCAL-00003" summary="6">
+      <created>1529315746715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529315746715</updated>
+    </task>
+    <task id="LOCAL-00004" summary="6">
+      <created>1529315761045</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529315761045</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6">
+      <created>1529315824973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529315824973</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="810000" />
+    <option name="totallyTimeSpent" value="1039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="4" />
@@ -220,7 +289,7 @@
       <window_info id="Image Layers" order="4" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.69593495" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.41788617" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -270,7 +339,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;1&quot;&#10;&#10;This reverts commit c8a5409" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;1&quot;&#10;&#10;This reverts commit c8a5409" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dubboconsumer/src/main/java/cn/hd/dubbo/sample/test/Consumer.java">
